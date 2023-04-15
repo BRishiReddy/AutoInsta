@@ -10,6 +10,6 @@ In this project I have developed an automated instagram bot which will send mess
  This runs by using selenium, webdriver manager and tkinter
  
  
- ****NOTE****
+ *****Future Scope****
  
 In this project we can add a time option where the sender can schedule his or her messages.
